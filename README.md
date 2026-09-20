@@ -26,8 +26,7 @@ thinking under a different name, and I bring that lens to how I break things.
   actually act on without asking me five follow-up questions
 
 ## Tools I use
-`JIRA` `Zephyr` `SQL` `Postman` — [add anything else you actually touch: 
-Selenium, TestRail, Android/iOS testing tools, etc.]
+`JIRA` `Zephyr` `SQL` `Android` `iOS`
 
 ## A couple of projects worth a look
 - **Pneumonia Detection (CNN ensemble)** — built an ensemble of 
